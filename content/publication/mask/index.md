@@ -36,7 +36,7 @@ links:
 url_pdf: https://arxiv.org/pdf/1910.10114.pdf
 url_code: 'https://github.com/bayrameda/MaskLearning'
 # url_dataset: '#'
-# url_poster: '#'
+url_poster: 'https://drive.google.com/file/d/1ri4m5X1aR62v25x3bXfNQts7WAIlgkuL/view?usp=sharing'
 #  url_project: ''
 #  url_slides: ''
 #  url_source: '#'
