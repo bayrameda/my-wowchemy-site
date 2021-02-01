@@ -18,8 +18,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *arXiv preprint*
-publication_short: In *arXiv*
+publication: In *ICASSP 2021, IEEE International Conference on Acoustics, Speech and Signal Processing*
+publication_short: In *ICASSP*
 
 abstract: The existing literature on knowledge graph completion mostly focuses on the link prediction task. However, knowledge graphs have an additional incompleteness problem; their nodes possess numerical attributes, whose values are often missing. Our approach, denoted as MrAP, imputes the values of missing attributes by propagating information across the multi-relational structure of a knowledge graph. It employs regression functions for predicting one node attribute from another depending on the relationship between the nodes and the type of the attributes. The propagation mechanism operates iteratively in a message passing scheme that collects the predictions at every iteration and updates the value of the node attributes. Experiments over two benchmark datasets show the effectiveness of our approach.
 
