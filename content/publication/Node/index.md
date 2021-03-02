@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *ICASSP 2021, IEEE International Conference on Acoustics, Speech and Signal Processing*
@@ -36,11 +36,11 @@ links:
 url_pdf: https://arxiv.org/pdf/2011.05301.pdf
 url_code: 'https://github.com/bayrameda/MrAP'
 # url_dataset: '#'
-# url_poster: '#'
+url_poster: 'https://drive.google.com/file/d/12pnn7h3ozl3FBcvXUu3oponTcCWMu16Z/view?usp=sharing'
 #  url_project: ''
 #  url_slides: ''
 #  url_source: '#'
-#  url_video: '#' -->
+url_video: 'https://drive.google.com/file/d/1o-MP0OJBy9yQDa1K0yo3PGwgHVE7kWWB/view?usp=sharing'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

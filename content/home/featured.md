@@ -39,6 +39,6 @@ design:
   view: 3
 ---
 
-{{% alert note %}}
+{{% callout note %}}
 Please check my [Google Scholar](https://scholar.google.com/citations?user=0Y-meVgAAAAJ&hl=en) to see full and updated list of publications.
-{{% /alert %}}
+{{% /callout %}}
