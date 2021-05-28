@@ -20,6 +20,7 @@ interests:
 - Graph Representation Learning
 - Network Science
 - Signal Processing on Graphs
+- Knowledge Graph Reasoning
 
 education:
   courses:
@@ -72,4 +73,8 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student at EPFL. My thesis study is on representation learning for multi-relational data and my thesis advisor is [Pierre Vandergheynst](https://people.epfl.ch/pierre.vandergheynst). I like to research at the intersection of machine learning and network data analysis. I have signal processing background, which I majored in MSc. [My master thesis](http://etd.lib.metu.edu.tr/upload/12620895/index.pdf) was on the analysis of airborne LiDAR point clouds using graph signal processing framework. I completed it under co-supervision of [Aydin Alatan](https://eee.metu.edu.tr/personel/aydin-alatan) and [Elif Vural](https://eee.metu.edu.tr/personel/elif-vural).
+I am currently looking for a POSTDOC position!
+
+My doctoral thesis is on representation learning for multi-relational data, and my thesis advisor is [Pierre Vandergheynst](https://people.epfl.ch/pierre.vandergheynst). I like to research machine learning for graph-structured data.
+
+I also have a signal processing background, which I majored in MSc. [My master thesis](http://etd.lib.metu.edu.tr/upload/12620895/index.pdf) was on the analysis of airborne LiDAR point clouds using the graph signal processing framework. I completed it under the co-supervision of [Aydin Alatan](https://eee.metu.edu.tr/personel/aydin-alatan) and [Elif Vural](https://eee.metu.edu.tr/personel/elif-vural).
