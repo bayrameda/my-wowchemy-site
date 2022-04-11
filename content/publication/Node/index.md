@@ -31,8 +31,8 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
+#- name: Custom Link
+#  url: http://example.org
 url_pdf: https://arxiv.org/pdf/2011.05301.pdf
 url_code: 'https://github.com/bayrameda/MrAP'
 # url_dataset: '#'
