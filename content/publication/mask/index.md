@@ -40,7 +40,7 @@ url_poster: 'https://drive.google.com/file/d/1ri4m5X1aR62v25x3bXfNQts7WAIlgkuL/v
 #  url_project: ''
 #  url_slides: ''
 #  url_source: '#'
-#  url_video: '#' -->
+url_video: 'https://confcats-event-sessions.s3.amazonaws.com/icassp21/videos/5601.mp4?pSLLvNN32K5O7rpsHm_Tb9YREbWXvGfR='
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

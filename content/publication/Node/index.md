@@ -31,8 +31,8 @@ tags:
 featured: true
 
 links:
-#- name: Custom Link
-#  url: http://example.org
+- name: Custom Link
+  url: http://example.org
 url_pdf: https://arxiv.org/pdf/2011.05301.pdf
 url_code: 'https://github.com/bayrameda/MrAP'
 # url_dataset: '#'
@@ -40,7 +40,8 @@ url_poster: 'https://drive.google.com/file/d/12pnn7h3ozl3FBcvXUu3oponTcCWMu16Z/v
 #  url_project: ''
 #  url_slides: ''
 #  url_source: '#'
-url_video: 'https://drive.google.com/file/d/1o-MP0OJBy9yQDa1K0yo3PGwgHVE7kWWB/view?usp=sharing'
+url_video: 'https://confcats-event-sessions.s3.amazonaws.com/icassp21/videos/4911.mp4?cyrwu13SqZgFyTMo1jq7VTWx8JgF9Ubk='
+ # 'https://drive.google.com/file/d/1o-MP0OJBy9yQDa1K0yo3PGwgHVE7kWWB/view?usp=sharing'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
