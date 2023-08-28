@@ -6,7 +6,7 @@ title: Eda Bayram, PhD
 superuser: true
 
 # Role/position
-role: Research Scientist
+role: AI Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -18,9 +18,9 @@ organizations:
 
 interests:
 - Graph Representation Learning
-- Network Science
-- Signal Processing on Graphs
 - Knowledge Graph Reasoning
+- Explainability
+- Neuro-symbolic Learning
 
 education:
   courses:
@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:eda.bayram@epfl.ch"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:eda.bayram@accenture.com"  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=0Y-meVgAAAAJ&hl=en
@@ -73,6 +73,8 @@ user_groups:
 - Visitors
 ---
 
-I am a research scientist at [Accenture Labs, Dublin](https://www.accenture.com/ie-en/about/accenture-labs-index). I recently obtained my PhD at [Swiss Federal Institute of Technology, Lausanne (EPFL)](https://www.epfl.ch/en/). [My doctoral thesis](https://infoscience.epfl.ch/record/290061) was on representation learning for multi-relational data where my thesis director was [Pierre Vandergheynst](https://people.epfl.ch/pierre.vandergheynst). I like to research machine learning for graph-structured data and I am broadly interested in knowledge representation and reasoning for explainable AI.
+I am a Machine Learning  researcher at [Accenture Labs, Dublin](https://www.accenture.com/ie-en/about/accenture-labs-index), where I explore novel ways of applying machine learning to graph-structured data. My research interests include knowledge representation and reasoning and explainable AI. I have a PhD in Computer Science from the [Swiss Federal Institute of Technology, Lausanne (EPFL)](https://www.epfl.ch/en/), where I worked on [representation learning for multi-relational data](https://infoscience.epfl.ch/record/290061) under the supervision of [Pierre Vandergheynst](https://people.epfl.ch/pierre.vandergheynst).
 
-I also have a signal processing background, which I majored in MSc. [My master thesis](http://etd.lib.metu.edu.tr/upload/12620895/index.pdf) was on the analysis of airborne LiDAR point clouds using the graph signal processing framework. I completed it under the co-supervision of [Aydin Alatan](https://eee.metu.edu.tr/personel/aydin-alatan) and [Elif Vural](https://eee.metu.edu.tr/personel/elif-vural).
+Besides machine learning, I am also fascinated by understanding human cognitive processes such as memory, learning, problem-solving, abstraction, common-sense reasoning. To satiate my intellectual appetite and further enrich my exploration in Artificial Intelligence, I embarked on a journey into studying Cognitive Sciences at University College Dublin (UCD).
+
+<!-- I also have a signal processing background, which I majored in MSc. [My master thesis](http://etd.lib.metu.edu.tr/upload/12620895/index.pdf) was on the analysis of airborne LiDAR point clouds using the graph signal processing framework. I completed it under the co-supervision of [Aydin Alatan](https://eee.metu.edu.tr/personel/aydin-alatan) and [Elif Vural](https://eee.metu.edu.tr/personel/elif-vural). -->
